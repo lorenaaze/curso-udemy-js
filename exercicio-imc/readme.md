@@ -1,0 +1,1 @@
+O objetivo desse exercício é de receber como input o peso e a altura do usuário, fazer o cálculo do IMC e retornar o valor do mesmo juntamente com o que ele representa (abaixo do peso, peso normal, sobrepeso, obesidade grau 1, obesidade grau 2 ou obesidade grau 3).
