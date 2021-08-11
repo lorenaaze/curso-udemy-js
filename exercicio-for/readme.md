@@ -1,0 +1,1 @@
+A ideia desse exercício é implementar algumas tags com texto na página através do HTML, usando alguns conceitos como o for, atribuição por desestruturação, DOM e appendChild.
