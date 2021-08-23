@@ -1,0 +1,1 @@
+O objetivo desse exercício foi de criar um timer que tenha as funções de iniciar, pausar e zerar.
